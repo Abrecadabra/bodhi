@@ -1,0 +1,2 @@
+# bodhi
+just another repository
